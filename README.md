@@ -21,7 +21,7 @@ with that out of the way lets start
 | Item | Quantity | Description | [link]() |
 | --- | ---: | --- | --- |
 | battery holder 1s | 1 | for fume hud | [link](https://makerbazar.in/products/18650-battery-single-cell-holder-case?variant=48251184021744) |
-| battery holder 3s | Q1 | for power supply | [link](https://makerbazar.in/products/18650-battery-single-cell-holder-case?variant=48251184087280) |
+| battery holder 3s | 1 | for power supply | [link](https://makerbazar.in/products/18650-battery-single-cell-holder-case?variant=48251184087280) |
 | heatshrink | 1 | to shild the wire and prevent sort  | [link](https://makerbazar.in/products/580-pcs-heat-shrink-tubing-insulation-assorted-kit?variant=43219391807728) |
 | black wire | 1 | black wire | [link](https://makerbazar.in/products/single-core-hook-up-wire-roll-1-25g?variant=20334072135776) |
 | red wire | 1 | red wire | [link](https://makerbazar.in/products/single-core-hook-up-wire-roll-1-25g?variant=18911950078048) |
