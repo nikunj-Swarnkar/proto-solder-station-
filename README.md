@@ -18,6 +18,7 @@ this is a whole set up to get started with soldering anywhere !
 with that out of the way lets start 
 
 ---
+
 ### BOM (bill of materials )
 | Item | Quantity | Description | [link]() |
 | battery holder 1s | 1 | for fume hud | [link](https://makerbazar.in/products/18650-battery-single-cell-holder-case?variant=48251184021744) |
