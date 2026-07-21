@@ -19,31 +19,35 @@ with that out of the way lets start
 
 ---
 
-### BOM (bill of materials )
-| Item | Quantity | Description | [link]() |
-| battery holder 1s | 1 | for fume hud | [link](https://makerbazar.in/products/18650-battery-single-cell-holder-case?variant=48251184021744) |
-| battery holder 3s | Q1 | for power supply | [link](https://makerbazar.in/products/18650-battery-single-cell-holder-case?variant=48251184087280) |
-| heatshrink | 1 | to shild the wire and prevent sort  | [link](https://makerbazar.in/products/580-pcs-heat-shrink-tubing-insulation-assorted-kit?variant=43219391807728) |
-| black wire | 1 | black wire | [link](https://makerbazar.in/products/single-core-hook-up-wire-roll-1-25g?variant=20334072135776) |
-| red wire | 1 | red wire | [link](https://makerbazar.in/products/single-core-hook-up-wire-roll-1-25g?variant=18911950078048) |
-| rocker switchs | 1 | switch for fume hud and power supply | [link](https://makerbazar.in/products/2-pin-mini-rocker-switch?variant=46452163674352) |
-| tweezer | 1 | tweezer for holding stuff | [link](https://makerbazar.in/products/generic-type-3-5pc-universal-stainless-steel-tweezer-set?variant=43864728600816) |
-| solder | 1 | solder | [link](https://github.com/nikunj-Swarnkar/proto-solder-station-/edit/main/README.md) |
-| Flux | 1 | flux helps to solder flow | [link](https://makerbazar.in/products/mechanic-10cc-lead-free-no-clean-solder-flux-paste-syring?variant=48251101151472) |
-| type c charging board  | 1 | type C input for power suppply  | [link](https://makerbazar.in/products/green-type-c-multi-cell-2s-3s-4s-to-8-4v-12-6v-16-8v-step-up-boost-lithium-battery-charger-module?variant=47464000422128) |
-| usb A | 1 | for 5 v usb power | [link](https://makerbazar.in/products/usb-female-to-2-54mm-breakout-board-with-direct-4p-adapter-board?variant=43748174790896) |
-| fuse holder | 1 | to hold fuse | [link](https://makerbazar.in/products/10a-glass-fuse-holder-socket-for-5x20mm-cartridge-fuses?variant=44178848088304) |
-| fuse | 1 | to protect the devices | [link](https://makerbazar.in/products/1-amp-cartridge-glass-fuse-5x20mm-bgxp?variant=48832372670704) |
-| multimeter | 1 | to measure volts | [link](https://makerbazar.in/products/multimeter-mini-digital-pocket-meter?variant=42093260898544) |
-| buckconverter | 3 | to step down volts | [link](https://makerbazar.in/products/xl6009-dc-dc-adjustable-boost-buck-step-up-step-down-converter-module?variant=49621760803056) |
-| bms | 1 | to protect the battery | [link](https://makerbazar.in/products/12-6v-bms-3s-10a-18650-lithium-battery-protection-board?variant=48251183759600) |
-| banana clips | 4 | connector in power supply | [link](https://makerbazar.in/products/banana-jack-plug-connector-male-female-2-pair?variant=44524473286896)
-| 18650 batter | 4 | battery to hold the charge | [link](https://makerbazar.in/products/18650-3-7v-lithium-ion-rechargeable-cell-good-quality?variant=46013701423344) |
-| copper wick | 1 | to suck solder | [link](https://makerbazar.in/products/hoki-desoldering-copper-wick-packet?variant=48251161444592) |
-| 608zz Bearing  | 1 | to hold the soldering iron | [link](https://www.amazon.in/gp/product/B0D5H6YB2V/ref=ox_sc_act_title_2?smid=A1V350QXQFOZZS&th=1) |
-| helping arms | 1 | helps to hold hot stuff while soldering | [link](https://www.amazon.in/gp/product/B07CJKJFLG/ref=ox_sc_act_title_3?smid=A3DSH7OTOU19ZN&psc=1) |
-| bass wool | 1 | cleans the soldering iron tip | [link](https://www.amazon.in/gp/product/B0DFZPDZ86/ref=ox_sc_act_title_4?smid=A3C7Z4RVM9A3G1&psc=1) |
-| soldering iron | 1 | wireless solder(gets hot) | [link](://www.amazon.in/gp/product/B0FMF1XV4P/ref=ox_sc_act_title_5?smid) |
-| HEPA filter | 1 | to hold particals in fume hud | [link](https://www.amazon.in/gp/product/B0D6Z2B894/ref=ox_sc_act_title_6?smid=A2SE7QPPEO44H5&psc=1) |
-| active carbon filter | 1 | to filter fume smoke  | [link](https://www.amazon.in/gp/product/B0F9LQ7T6R/ref=ox_sc_act_title_7?smid=A1P9ZW4IHIOLEJ&psc=1) |
-|pc fan|1|helps to flow air|[link](https://www.amazon.in/gp/product/B0GSNLDCN1/ref=ox_sc_act_title_8?smid=A1NLUBA7LER6WH&th=1)|
+## BOM (Bill of Materials)
+
+| Item | Quantity | Description | Link |
+| --- | ---: | --- | --- |
+| 1S 18650 Battery Holder | 1 | Holds the battery for the fume hood | [Link](https://makerbazar.in/products/18650-battery-single-cell-holder-case?variant=48251184021744) |
+| 3S 18650 Battery Holder | 1 | Holds the three batteries for the portable power supply | [Link](https://makerbazar.in/products/18650-battery-single-cell-holder-case?variant=48251184087280) |
+| Heat-Shrink Tubing Kit | 1 | Insulates wires and helps prevent short circuits | [Link](https://makerbazar.in/products/580-pcs-heat-shrink-tubing-insulation-assorted-kit?variant=43219391807728) |
+| Black Wire | 1 | Negative / ground wiring | [Link](https://makerbazar.in/products/single-core-hook-up-wire-roll-1-25g?variant=20334072135776) |
+| Red Wire | 1 | Positive power wiring | [Link](https://makerbazar.in/products/single-core-hook-up-wire-roll-1-25g?variant=18911950078048) |
+| Mini Rocker Switches | 2 | Power switches for the fume hood and portable power supply | [Link](https://makerbazar.in/products/2-pin-mini-rocker-switch?variant=46452163674352) |
+| Tweezer Set | 1 | For holding small components while working | [Link](https://makerbazar.in/products/generic-type-3-5pc-universal-stainless-steel-tweezer-set?variant=43864728600816) |
+| Solder | 1 | Solder for electrical connections | Add Link |
+| Solder Flux | 1 | Helps solder flow and improves solder joints | [Link](https://makerbazar.in/products/mechanic-10cc-lead-free-no-clean-solder-flux-paste-syring?variant=48251101151472) |
+| USB-C 3S Charging Module | 1 | USB-C charging input for the 3S portable power supply battery | [Link](https://makerbazar.in/products/green-type-c-multi-cell-2s-3s-4s-to-8-4v-12-6v-16-8v-step-up-boost-lithium-battery-charger-module?variant=47464000422128) |
+| USB-A Female Breakout Board | 1 | Provides a 5V USB output | [Link](https://makerbazar.in/products/usb-female-to-2-54mm-breakout-board-with-direct-4p-adapter-board?variant=43748174790896) |
+| 5×20 mm Fuse Holder | 1 | Holds the protection fuse for the power supply | [Link](https://makerbazar.in/products/10a-glass-fuse-holder-socket-for-5x20mm-cartridge-fuses?variant=44178848088304) |
+| 1A 5×20 mm Glass Fuse | 1 | Provides overcurrent protection | [Link](https://makerbazar.in/products/1-amp-cartridge-glass-fuse-5x20mm-bgxp?variant=48832372670704) |
+| Digital Multimeter | 1 | Used for measuring voltage, resistance, continuity, and other electrical values | [Link](https://makerbazar.in/products/multimeter-mini-digital-pocket-meter?variant=42093260898544) |
+| XL6009 DC-DC Converter | 3 | Used to regulate the required output voltages | [Link](https://makerbazar.in/products/xl6009-dc-dc-adjustable-boost-buck-step-up-step-down-converter-module?variant=49621760803056) |
+| 3S 10A BMS | 1 | Protects the 3S lithium-ion battery pack | [Link](https://makerbazar.in/products/12-6v-bms-3s-10a-18650-lithium-battery-protection-board?variant=48251183759600) |
+| Banana Plug & Jack Pairs | 2 Pairs | Output connectors for the portable power supply | [Link](https://makerbazar.in/products/banana-jack-plug-connector-male-female-2-pair?variant=44524473286896) |
+| 18650 3.7V Li-ion Cells | 4 | Three cells for the power supply and one for the fume hood | [Link](https://makerbazar.in/products/18650-3-7v-lithium-ion-rechargeable-cell-good-quality?variant=46013701423344) |
+| Desoldering Copper Wick | 1 | Used to remove excess solder | [Link](https://makerbazar.in/products/hoki-desoldering-copper-wick-packet?variant=48251161444592) |
+| 608ZZ Bearing | 1 | Used as part of the soldering iron holder | [Link](https://www.amazon.in/gp/product/B0D5H6YB2V/) |
+| Helping Hands | 1 | Holds components and workpieces while soldering | [Link](https://www.amazon.in/gp/product/B07CJKJFLG/) |
+| Brass Wool | 1 | Used to clean the soldering iron tip | [Link](https://www.amazon.in/gp/product/B0DFZPDZ86/) |
+| Cordless Soldering Iron | 1 | Portable soldering iron used for soldering | Add Link |
+| HEPA Filter | 1 | Helps capture fine particles in the fume hood | [Link](https://www.amazon.in/gp/product/B0D6Z2B894/) |
+| Activated Carbon Filter | 1 | Helps reduce soldering fumes and odors | [Link](https://www.amazon.in/gp/product/B0F9LQ7T6R/) |
+| PC Cooling Fan | 1 | Pulls air through the fume hood filters | [Link](https://www.amazon.in/gp/product/B0GSNLDCN1/) |
+
+---
