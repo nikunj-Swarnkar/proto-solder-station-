@@ -42,8 +42,8 @@ with that out of the way lets start
 | 608zz Bearing  | 1 | to hold the soldering iron | [link](https://www.amazon.in/gp/product/B0D5H6YB2V/ref=ox_sc_act_title_2?smid=A1V350QXQFOZZS&th=1) |
 | helping arms | 1 | helps to hold hot stuff while soldering | [link](https://www.amazon.in/gp/product/B07CJKJFLG/ref=ox_sc_act_title_3?smid=A3DSH7OTOU19ZN&psc=1) |
 | bass wool | 1 | cleans the soldering iron tip | [link](https://www.amazon.in/gp/product/B0DFZPDZ86/ref=ox_sc_act_title_4?smid=A3C7Z4RVM9A3G1&psc=1) |
-| soldering iron | 1 | wireless solder(gets hot) | [link](://www.amazon.in/gp/product/B0FMF1XV4P/ref=ox_sc_act_title_5?smid) |
-| HEPA filter | 1 | to hold particals in fume hud | [link](https://www.amazon.in/gp/product/B0D6Z2B894/ref=ox_sc_act_title_6?smid=A2SE7QPPEO44H5&psc=1) |
+| soldering iron | 1 | wireless solder(gets hot) | [link](https://www.amazon.in/gp/product/B0FMF1XV4P/ref=ox_sc_act_title_5?smid) |
+| HEPA filter | 1 | to hold particles in fume hud | [link](https://www.amazon.in/gp/product/B0D6Z2B894/ref=ox_sc_act_title_6?smid=A2SE7QPPEO44H5&psc=1) |
 | active carbon filter | 1 | to filter fume smoke  | [link](https://www.amazon.in/gp/product/B0F9LQ7T6R/ref=ox_sc_act_title_7?smid=A1P9ZW4IHIOLEJ&psc=1) |
 |pc fan|1|helps to flow air|[link](https://www.amazon.in/gp/product/B0GSNLDCN1/ref=ox_sc_act_title_8?smid=A1NLUBA7LER6WH&th=1)|
 
