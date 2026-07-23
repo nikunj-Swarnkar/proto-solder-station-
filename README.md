@@ -48,3 +48,31 @@ with that out of the way lets start
 |pc fan|1|helps to flow air|[link](https://www.amazon.in/gp/product/B0GSNLDCN1/ref=ox_sc_act_title_8?smid=A1NLUBA7LER6WH&th=1)|
 
 ---
+
+### Assembly 
+
+## Solder iron holder 
+
+![image](https://cdn.hackclub.com/019f8fd3-536d-7b46-a7d0-9988e0ead5f4/Screenshot%202026-07-20%20013001.png)
+
+okay so this is the easiest , print everything and remove the supports and the ball bearing as shown in the image and add the brass wool and the sponge 
+and water to sponge and we are donee 
+
+## Fume hud 
+
+![image](https://cdn.hackclub.com/019f8fe2-ccca-7d56-a363-1c0d86af1852/fan%20assembly%201.png)
+
+![image](https://cdn.hackclub.com/019f8fe3-31e6-77d7-932d-10cff38d4d73/fan%20asssembly%202.png)
+
+so this is a lil easy , but tuffer than soldering iron user holder ,install the fan first , then put wire through the side and then take some screws and add the metal screen 
+then 
+
+put the filter on the slots and the HEPA filter on the 
+![image](https://cdn.hackclub.com/019f8ff3-500d-7f28-aedf-83584f82e9b4/HEPA.png)
+
+and after putting all filters 
+do the wireing 
+![image](https://cdn.hackclub.com/019f8fff-ad48-7016-bfbb-e91177bed177/battery.png)
+and then just add the lid and an 3 m screw after adding the switch and we are done with this
+
+## power supply 
